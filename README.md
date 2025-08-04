@@ -6,4 +6,4 @@ Following the wholesome and amazing incident which is the shutdown of Ergast API
 
 As such, for visibility and ease of maintainence I will be migrating (more like re-doing) my work on github using Kaggle available F1 race datasets gradually based on vibe for the 3 people that will see this. 
 
-In the mean time, for anyone that is interested in predicting podium finishes, you can probably write a script that randomly chooses between Hamilton, LeClerc, Verstappen, Russell and Norris and probably get like 80% accuracy.
+In the mean time, for anyone that is interested in predicting podium finishes, you can probably write a script that randomly chooses between Hamilton, LeClerc, Verstappen, Russell and Norris and probably get like 80% accuracy. There really isnt much nuance when it comes to R&D fundings.
